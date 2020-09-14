@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277246467407",
+    "firebase_url": "https://haverim-837cc.firebaseio.com",
+    "project_id": "haverim-837cc",
+    "storage_bucket": "haverim-837cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277246467407:android:76078e512b5db1aaaeb93a",
+        "android_client_info": {
+          "package_name": "com.example.haverim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277246467407-vels8rlqu5jki7jvtqbbc97fo1i2vg45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haverim",
+            "certificate_hash": "036300cef9e27f56dcd6a8ea8f6fc5d4923db383"
+          }
+        },
+        {
+          "client_id": "277246467407-iitms8khn6io54uelhl8sag5m1f1mua7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDReEgV9MoBzjMtgLy-JZ0sPhHd4kLtgIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277246467407-iitms8khn6io54uelhl8sag5m1f1mua7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
